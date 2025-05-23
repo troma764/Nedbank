@@ -14,3 +14,6 @@ Was this a good year to invest in Nedbank?
 Yes, for early buyers(January to April)
 Stock prices increased steadily, offering profitable opportunities.
 Market trends showed strong mid-year performance.
+
+Here is the link to the interactive web app:
+https://app.powerbi.com/view?r=eyJrIjoiYjRjODUwNWUtYjU2Zi00ZDE4LWExNGYtODc3M2E3ZTFmMTk0IiwidCI6ImVhMWE5MDliLTY2MDAtNGEyNS04MmE1LTBjNmVkN2QwNTEzYiIsImMiOjl9&embedImagePlaceholder=true
